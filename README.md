@@ -5,7 +5,7 @@ Actividades propuestas en clase de las diferentes asignaturas
 </div>  
   
 
-### <div align="center">I'm Jose Vaquero a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Jose Vaquero a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/JVaquero2003)  
